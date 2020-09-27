@@ -12,4 +12,4 @@
 
 ---
 
-[![AlphaSnow's github stats](https://github-readme-stats.vercel.app/api?username=alphasnow)](https://github.com/alphasnow/github-readme-stats)
+![AlphaSnow's github stats](https://github-readme-stats.vercel.app/api?username=alphasnow)
