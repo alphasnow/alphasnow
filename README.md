@@ -1,6 +1,6 @@
 ### Hi~ I am AlphaSnow, Thank you for coming.
 
-![Email Badge](https://img.shields.io/badge/email-wind91@foxmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white&link=mailto:wind91@foxmail.com)
+[![Email Badge](https://img.shields.io/badge/email-wind91@foxmail.com-brightgreen?style=flat-square&logo=gmail&logoColor=white&link=mailto:wind91@foxmail.com)](mailto:wind91@foxmail.com)
 
 ---
 
