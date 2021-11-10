@@ -7,7 +7,7 @@
 ### About me
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** PHP,Python,Html,Javascript,React
+-  **Languages :** PHP,Python,Go,Javascript,React
 -  **Hobbies :** Articles & Music :headphones:
 
 ---
