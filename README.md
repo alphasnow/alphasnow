@@ -14,7 +14,3 @@ I am AlphaSnow, Thank you for coming.
 ---
 
 ![AlphaSnow's github stats](https://github-readme-stats.vercel.app/api?username=alphasnow)
-
----
-
-![visitor counter](https://profile-counter.glitch.me/alphasnow/count.svg)
