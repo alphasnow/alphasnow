@@ -8,7 +8,7 @@ I am AlphaSnow, Thank you for coming.
 ### About me
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Go,PHP,Python,Javascript,React
+-  **Languages :** Go,PHP,Python,Javascript
 -  **Hobbies :** Articles & Music :headphones:
 
 ---
