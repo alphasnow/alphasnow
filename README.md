@@ -10,7 +10,3 @@ I am AlphaSnow.
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Go,PHP,Python,Javascript
 -  **Hobbies :** Articles & Music :headphones:
-
----
-
-![AlphaSnow's github stats](https://github-readme-stats.vercel.app/api?username=alphasnow)
